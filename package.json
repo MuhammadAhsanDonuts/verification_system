@@ -1,0 +1,22 @@
+{
+  "name": "certs_verification_system",
+  "version": "1.0.0",
+  "description": "This is the backend of Certs_Verification_System",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuhammadAhsanDonuts/verification_system.git"
+  },
+  "keywords": [
+    "backend"
+  ],
+  "author": "Ahsan Shaikh, Shahrukh Siddiqui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MuhammadAhsanDonuts/verification_system/issues"
+  },
+  "homepage": "https://github.com/MuhammadAhsanDonuts/verification_system#readme"
+}
